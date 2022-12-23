@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @majafrankowska
 - 👀 I’m interested in making apps, websites, cybersecurity and software development
 - 🌱 I’m currently learning Java, Python, Swift and Web development
+- 👩🏻‍💻 I'm currently studying Computer Science and working as a Freelancer 
 - 💞️ I’m looking to collaborate on frontend and backend projects 
 - 📫 How to reach me: 
 - mail: majafrankowskawork@gmail.com
