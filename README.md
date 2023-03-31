@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, C++, SQL and Web development
 - 💞️ I’m looking to collaborate on apps and websites oriented projects 
 - 📫 How to reach me: 
-- mail: majafrankowskawork@gmail.com
+- Contact me: majafrankowskawork@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/majafrankowska/
 
 <!---
