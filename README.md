@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maja Frankowska
 - 👀 I’m interested in Frontend, Backend and Cybersecurity
-- 🌱 I’m currently learning Python, SQL and Web development
+- 🌃 I’m currently learning Python, SQL and Web development
 - 📚 I'm doing a Computer Science Bachealor degree at PJATK
 - 📫 I'm open to collaborating on projects and new job oppurtunities
 
