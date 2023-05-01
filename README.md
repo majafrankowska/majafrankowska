@@ -2,10 +2,8 @@
 - 👀 I’m interested in Frontend, Backend and Cybersecurity
 - 🌱 I’m currently learning Python, SQL and Web development
 - 📚 I'm doing a Computer Science Bachealor degree at PJATK
-- ✨ I'm open for new job oppurtunities and projects!
-- 📫 How to reach me: 
- Contact me via Email: majafrankowskawork@gmail.com
- My LinkedIn: https://www.linkedin.com/in/majafrankowska/
+- 📫 I'm open to collaborating on projects and new job oppurtunities
+
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
