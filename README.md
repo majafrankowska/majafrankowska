@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maja Frankowska
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌃 I’m currently learning SQL, Python and Web development
-- 📚 I'm now doing Computer Science Bachealor degree at PJATK
+- 📚 I'm studying Computer Science at Polish-Japanese Academy of Information Technology
 - 📫 I'm open to new job oppurtunities and project collaborations
 
 
