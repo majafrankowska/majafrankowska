@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maja Frankowska
+- 👋 Hi, I’m @majafrankowska
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌃 I’m currently learning SQL, Python and Web development
 - 📚 I'm studying Computer Science at Polish-Japanese Academy of Information Technology
