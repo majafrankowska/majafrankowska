@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @majafrankowska
-- 👀 I’m interested in making apps, websites, cybersecurity and software development
-- 📚 I'm doing a Computer Science Bachealor degree and I'm open for new job oppurtunities 
-- 🌱 I’m currently learning Java, C++, SQL and Web development
-- ✨ I’m looking to collaborate on apps and websites oriented projects 
+- 👋 Hi, I’m Maja Frankowska
+- 👀 I’m interested in Frontend, Backend and Cybersecurity
+- 🌱 I’m currently learning Java, C and C++, SQL and Web development
+- 📚 I'm doing a Computer Science Bachealor degree at PJATK
+- ✨ I'm open for new job oppurtunities and projects!
 - 📫 How to reach me: 
- Contact me via Email: majafrankowskawork@gmail.com
- My LinkedIn: https://www.linkedin.com/in/majafrankowska/
+  Contact me via Email: majafrankowskawork@gmail.com
+  My LinkedIn: https://www.linkedin.com/in/majafrankowska/
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
