@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majafrankowska
 - 💻 I'm studying Computer Science at Polish-Japanese Academy of Information Technology
-- ✨ I'm open to new job oppurtunities and collaborating on Projects
+- ✨ I'm open to new job opportunities and to collaborate on projects
 - 👀 I’m interested in App and Web Development, Cybersecurity and Datascience
 - 🌱 I’m currently learning SQL, Python and C++
 
