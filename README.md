@@ -17,7 +17,7 @@
 
 -------
 
-![Your Wakatime Stats](https://wakatime.com/share/@majafrankowska/f6317fcc-c208-413c-b5de-4b149d13a02f.svg)
+![Your Wakatime Stats](https://wakatime.com/share/@majafrankowska/90f9f090-4424-4186-a32e-a85c87205912.svg)
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
