@@ -21,7 +21,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ava,py,cpp,c,linux,powershell,mysql,django,swift,html,js,css,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,c,cmake,bash,linux,powershell,mysql,django,swift,html,js,css" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,gcp,github,visualstudio,vscode,vim,wordpress" />
   </a>
 </p>
 
