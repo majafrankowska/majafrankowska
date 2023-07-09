@@ -17,6 +17,15 @@
 
 -------
 
+<h3 align="center"> My Tech Stack:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ava,py,cpp,c,linux,powershell,mysql,django,swift,html,js,css,wordpress" />
+  </a>
+</p>
+
+
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
