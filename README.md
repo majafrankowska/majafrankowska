@@ -1,3 +1,13 @@
+<h2 align="center">👋 Hello!</h2>
+<p align="center">
+  <a href="mailto:majafrankowskawork@gmail.com">Email me</a> •
+  <a href="https://www.linkedin.com/in/majafrankowska/">LinkedIn</a> •
+  <a href="https://www.sololearn.com/profile/9348645">Sololearn</a> •
+    <a href="https://www.codewars.com/users/majafrankowska">Codewars</a> 
+</p>
+
+
+
 - 👋 Hi, I’m @majafrankowska
 - 💻 I'm a Computer Science Student at Polish-Japanese Academy of Information Technology
 - ✨ I'm open to new job opportunities and to collaborate on projects
