@@ -4,15 +4,7 @@
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
 - 🧠 I’m currently learning Python, Java and C++
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@majafrankowska/3c8bf586-e29f-4c6e-bc44-1e3129f86f65.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
-
+<figure><embed src="https://wakatime.com/share/@majafrankowska/ed78a335-5e05-4f78-b890-8f9e90e7f2f2.svg"></embed></figure>
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
