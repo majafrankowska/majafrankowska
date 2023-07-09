@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp,c,cmake,bash,linux,powershell,mysql,django,swift,html,js,css" />
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,gcp,oracle,github,visualstudio,vscode,vim,wordpress" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,gcp,oraclesql,github,visualstudio,vscode,vim,wordpress" />
   </a>
 </p>
 
