@@ -9,7 +9,7 @@
 
 
 
-- ☘️ I’m @majafrankowska
+- ☘️ Hello my name is @majafrankowska
 - 💻 I'm a Computer Science Student at Polish-Japanese Academy of Information Technology
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
 - ✨ I'm open to new job opportunities and to collaborate on projects
