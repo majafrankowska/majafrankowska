@@ -3,7 +3,8 @@
   <a href="mailto:majafrankowskawork@gmail.com">Email me</a> •
   <a href="https://www.linkedin.com/in/majafrankowska/">LinkedIn</a> •
   <a href="https://www.sololearn.com/profile/9348645">Sololearn</a> •
-    <a href="https://www.codewars.com/users/majafrankowska">Codewars</a> 
+  <a href="https://www.codewars.com/users/majafrankowska">Codewars</a> •
+  <a href="https://www.leetcode.com/majafrankowska/">Leetcode</a> 
 </p>
 
 
