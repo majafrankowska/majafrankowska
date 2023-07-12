@@ -28,11 +28,11 @@
 </p>
 
 
--------
-
-
+<p
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" /></a>
+<p
 
+  
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
