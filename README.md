@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="center"> My WakaTime Stats:</h3>
+<h3 align="center">My WakaTime Stats:</h3>
 
 <br>
 
