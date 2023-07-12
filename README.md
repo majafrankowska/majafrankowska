@@ -20,14 +20,16 @@
 
 <h3 align="center"> My Tech Stack:</h3>
 
--------
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp,c,cmake,bash,mysql,django,swift,html,js,ts,css" />
     <img src="https://skillicons.dev/icons?i=ps,idea,eclipse,gcp,linux,github,visualstudio,vscode,vim,wordpress" />
   </a>
 </p>
+
+
+-------
+
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" /></a>
 
