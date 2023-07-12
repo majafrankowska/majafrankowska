@@ -27,8 +27,7 @@
   </a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@majafrankowska/87006a8c-e05a-4eda-b58d-5ad4c7735b36.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" /></a>
 
 <!---
 majafrankowska/majafrankowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
