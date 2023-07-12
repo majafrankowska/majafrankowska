@@ -27,6 +27,7 @@
   </a>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@majafrankowska/87006a8c-e05a-4eda-b58d-5ad4c7735b36.svg"></embed></figure>
 
 
 <!---
