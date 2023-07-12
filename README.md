@@ -27,13 +27,12 @@
   </a>
 </p>
 
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" width="300" height="300" style="margin-right: 10px;" />
-    <img src="https://wakatime.com/share/@majafrankowska/d5aea567-0e23-4a0e-a7ab-54932759fc88.png" width="300" height="300" />
-  </a>
 </div>
+<div align="center">
+<img height="350" src="https://wakatime.com/share/@majafrankowska/7dd581fb-c994-471d-9eaf-7851e3b61b54.svg"/>
+<img height="350" src="https://wakatime.com/share/@majafrankowska/71af26ce-e164-48cd-809f-64e3f347d530.svg"/>
+</div>
+
 
   
 <!---
