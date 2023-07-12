@@ -28,9 +28,9 @@
 </p>
 
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" width="300" height="300" />
+    <img src="https://wakatime.com/share/@majafrankowska/71772ded-70f7-41c4-a823-22b68b1ae5c1.png" width="300" height="300" style="margin-right: 10px;" />
     <img src="https://wakatime.com/share/@majafrankowska/d5aea567-0e23-4a0e-a7ab-54932759fc88.png" width="300" height="300" />
   </a>
 </div>
