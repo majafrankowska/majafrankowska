@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Maja </h2>
+<h2 align="center">👋 Hello! I'm @majafrankowska </h2>
 <p align="center">
   <a href="mailto:majafrankowskawork@gmail.com">Email me</a> •
   <a href="https://www.linkedin.com/in/majafrankowska/">LinkedIn</a> •
@@ -8,8 +8,8 @@
 </p>
 
 
-- ☘️ Hello my name is @majafrankowska
-- 💻 I'm a Computer Science Student at Polish-Japanese Academy of Information Technology
+- ☘️ Hi, my name is Maja Frankowska and I'm a Software Developer from Poland
+- 💻 I'm also a Computer Science Student at Polish-Japanese Academy of Information Technology in Warsaw
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
 - ✨ I'm open to new job opportunities and to collaborate on projects
 - 🧠 I’m currently learning Python, Java and C++
