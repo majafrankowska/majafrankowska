@@ -8,7 +8,6 @@
 </p>
 
 
-
 - ☘️ Hello my name is @majafrankowska
 - 💻 I'm a Computer Science Student at Polish-Japanese Academy of Information Technology
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
@@ -26,6 +25,11 @@
     <img src="https://skillicons.dev/icons?i=ps,idea,eclipse,gcp,cmake,linux,github,visualstudio,vscode,vim,wordpress" />
   </a>
 </p>
+
+
+<h3 align="center"> My WakaTime Stats:</h3>
+
+<br>
 
 </div>
 <div align="center">
