@@ -12,7 +12,7 @@
 - 💻 I'm also a Computer Science Student at Polish-Japanese Academy of Information Technology in Warsaw
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
 - ✨ I'm open to new job opportunities and to collaborate on projects
-- 🧠 I’m currently learning Python, Java and C++
+- 🧠 I’m currently learning Java, Python and C++
 
 
 -------
