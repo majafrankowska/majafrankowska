@@ -8,7 +8,7 @@
 </p>
 
 
-- ☘️ Hi, my name is Maja Frankowska and I'm a Software Developer from Poland
+- ☘️ Hi, my name is Maja Frankowska and I'm a Software Engineer from Poland
 - 💻 I'm also a Computer Science Student at Polish-Japanese Academy of Information Technology in Warsaw
 - 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
 - ✨ I'm open to new job opportunities and to collaborate on projects
