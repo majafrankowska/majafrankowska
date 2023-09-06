@@ -10,7 +10,7 @@
 
 - ☘️ Hi, my name is Maja Frankowska and I'm a Software Engineer from Poland
 - 💻 I'm also a Computer Science Student at Polish-Japanese Academy of Information Technology in Warsaw
-- 👀 I’m interested in FullStack Development, Cloud, Cybersecurity and Datascience
+- 👀 I’m interested in Full Stack Development, Cloud, Cybersecurity and Data Science
 - ✨ I'm open to new job opportunities and to collaborate on projects
 - 🧠 I’m currently learning Java, Python and C++
 
