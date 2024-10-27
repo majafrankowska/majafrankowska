@@ -31,5 +31,5 @@
   <h3>📊 My WakaTime Stats</h3>
   <img height="350" src="https://wakatime.com/share/@majafrankowska/7dd581fb-c994-471d-9eaf-7851e3b61b54.svg"/>
   <!-- Optional second chart -->
-  <img height="350" src="https://wakatime.com/share/@majafrankowska/71af26ce-e164-48cd-809f-64e3f347d530.svg"/> 
+   <!-- <img height="350" src="https://wakatime.com/share/@majafrankowska/71af26ce-e164-48cd-809f-64e3f347d530.svg"/> -->
 </div>
