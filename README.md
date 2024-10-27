@@ -7,22 +7,26 @@
   <a href="https://www.codewars.com/users/majafrankowska">🎌 Codewars</a> •
   <a href="https://www.sololearn.com/profile/9348645">📋 Sololearn</a> 
 </p>
-
----
+<br>
 
 <h3 align="center">🛠 My Tech Stack</h3>
 
 <div align="center">
 
-**Languages, Frameworks & Databases**  
-<img src="https://skillicons.dev/icons?i=java,py,cpp,c,swift,js,ts,bash,django,mysql,html,css" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,js,html,css,bash" />
+<br><br>
 
-**Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,linux,gcp,ps,idea,wordpress,eclipse" />
+**Technologies**  
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,maven,django,wordpress" />
+<br><br>
+
+**Developer Tools**  
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,eclipse,vscode" />
 
 </div>
 
----
+<br>
 
 <div align="center">
   <h3>📊 My WakaTime Stats</h3>
