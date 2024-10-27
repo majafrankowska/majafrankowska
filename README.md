@@ -21,7 +21,7 @@
 
 **Technologies & Tools**  
 
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,wordpress,git,kubernetes,docker,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,wordpress,kubernetes,docker,vscode,eclipse" />
 
 
 
