@@ -7,7 +7,6 @@
   <a href="https://www.codewars.com/users/majafrankowska">🎌 Codewars</a> •
   <a href="https://www.sololearn.com/profile/9348645">📋 Sololearn</a> 
 </p>
-<br>
 
 <h3 align="center">🛠 My Tech Stack</h3>
 
@@ -25,7 +24,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
   <h3>📊 My WakaTime Stats</h3>
@@ -33,3 +31,4 @@
   <!-- Optional second chart -->
    <!-- <img height="350" src="https://wakatime.com/share/@majafrankowska/71af26ce-e164-48cd-809f-64e3f347d530.svg"/> -->
 </div>
+<!-- <br> -->
