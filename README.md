@@ -8,13 +8,16 @@
   <a href="https://www.sololearn.com/profile/9348645">📋 Sololearn</a> 
 </p>
 
+
 <h3 align="center">🛠 My Tech Stack</h3>
 
 <div align="center">
 
 **Languages**  
+
 <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,js,html,css,bash" />
-<br>
+<br><br>
+
 
 **Technologies & Tools**  
 
