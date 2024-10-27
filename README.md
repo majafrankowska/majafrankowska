@@ -2,9 +2,9 @@
 <p align="center">
   <a href="mailto:majafrankowskawork@gmail.com">Email me</a> •
   <a href="https://www.linkedin.com/in/majafrankowska/">LinkedIn</a> •
+  <a href="https://www.leetcode.com/majafrankowska/">Leetcode</a> •
   <a href="https://www.sololearn.com/profile/9348645">Sololearn</a> •
-  <a href="https://www.codewars.com/users/majafrankowska">Codewars</a> •
-  <a href="https://www.leetcode.com/majafrankowska/">Leetcode</a> 
+  <a href="https://www.codewars.com/users/majafrankowska">Codewars</a> 
 </p>
 
 
@@ -16,12 +16,12 @@
 
 -------
 
-<h3 align="center"> My Tech Stack:</h3>
+<h3 align="center"> My Stack:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp,c,bash,mysql,django,swift,html,js,ts,css" />
-    <img src="https://skillicons.dev/icons?i=ps,idea,eclipse,gcp,cmake,linux,github,visualstudio,vscode,vim,wordpress" />
+    <img src="https://skillicons.dev/icons?i=ps,idea,eclipse,gcp,linux,github,visualstudio,vscode,wordpress" />
   </a>
 </p>
 
