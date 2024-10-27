@@ -15,11 +15,10 @@
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,js,html,css,bash" />
-<br><br>
 
 **Technologies**  
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,maven,django,wordpress" />
-<br><br>
+
 
 **Developer Tools**  
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,eclipse,vscode" />
