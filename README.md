@@ -13,14 +13,14 @@
 <div align="center">
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,js,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,js,html,css,bash" />
+<br>
 
-**Technologies**  
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,maven,django,wordpress" />
+**Technologies & Tools**  
+
+<img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,wordpress,git,kubernetes,docker,vscode,eclipse" />
 
 
-**Developer Tools**  
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,eclipse,vscode" />
 
 </div>
 
