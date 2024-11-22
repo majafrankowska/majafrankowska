@@ -18,15 +18,12 @@
 <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,js,html,css,bash" />
 <br><br>
 
-
 **Technologies & Tools**  
 
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,wordpress,kubernetes,docker,vscode,eclipse" />
 
-
--->
 </div>
-
+-->
 
 <div align="center">
   <h3>📊 My WakaTime Stats</h3>
