@@ -8,7 +8,7 @@
   <a href="https://www.sololearn.com/profile/9348645">📋 Sololearn</a> 
 </p>
 
-
+<!-- 
 <h3 align="center">🛠 My Tech Stack</h3>
 
 <div align="center">
@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,spring,wordpress,kubernetes,docker,vscode,eclipse" />
 
 
-
+-->
 </div>
 
 
