@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Maja Frankowska</h2>
+<!-- <h2 align="center">👋 Hello! I'm Maja Frankowska</h2> -->
 
 <p align="center">
   <a href="mailto:majafrankowskawork@gmail.com">📧 Email me</a> •
